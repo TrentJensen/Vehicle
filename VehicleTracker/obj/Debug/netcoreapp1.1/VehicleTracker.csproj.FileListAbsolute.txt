@@ -1,0 +1,10 @@
+c:\users\treym\onedrive\documents\visual studio 2017\Projects\VehicleTracker\VehicleTracker\bin\Debug\netcoreapp1.1\VehicleTracker.deps.json
+c:\users\treym\onedrive\documents\visual studio 2017\Projects\VehicleTracker\VehicleTracker\bin\Debug\netcoreapp1.1\VehicleTracker.runtimeconfig.json
+c:\users\treym\onedrive\documents\visual studio 2017\Projects\VehicleTracker\VehicleTracker\bin\Debug\netcoreapp1.1\VehicleTracker.runtimeconfig.dev.json
+c:\users\treym\onedrive\documents\visual studio 2017\Projects\VehicleTracker\VehicleTracker\bin\Debug\netcoreapp1.1\VehicleTracker.dll
+c:\users\treym\onedrive\documents\visual studio 2017\Projects\VehicleTracker\VehicleTracker\bin\Debug\netcoreapp1.1\VehicleTracker.pdb
+c:\users\treym\onedrive\documents\visual studio 2017\Projects\VehicleTracker\VehicleTracker\obj\Debug\netcoreapp1.1\VehicleTracker.csprojResolveAssemblyReference.cache
+c:\users\treym\onedrive\documents\visual studio 2017\Projects\VehicleTracker\VehicleTracker\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\treym\onedrive\documents\visual studio 2017\Projects\VehicleTracker\VehicleTracker\obj\Debug\netcoreapp1.1\VehicleTracker.AssemblyInfo.cs
+c:\users\treym\onedrive\documents\visual studio 2017\Projects\VehicleTracker\VehicleTracker\obj\Debug\netcoreapp1.1\VehicleTracker.dll
+c:\users\treym\onedrive\documents\visual studio 2017\Projects\VehicleTracker\VehicleTracker\obj\Debug\netcoreapp1.1\VehicleTracker.pdb
